@@ -1,5 +1,3 @@
-package main
+package service
 
-func main() {
-	$END$
-}
+//DOTO:待實做
